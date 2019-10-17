@@ -1,0 +1,6 @@
+input p=prime
+input n= number
+if(n>=1)
+print n=prime
+if (n<=1)
+print=else
